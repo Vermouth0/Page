@@ -11,7 +11,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ViewPager viewPager = findViewById(R.id.viewpager); //viewPager控件指定区域显示Fragment，具体显示哪一个Fragment由MyPageAdapter管理
+        //viewPager控件指定区域显示Fragment，具体显示哪一个Fragment由MyPageAdapter管理
+        ViewPager viewPager = findViewById(R.id.viewpager);
         //获取pageAdapter对象
         MyPageAdapter pageAdapter = new MyPageAdapter(getSupportFragmentManager());
         viewPager.setAdapter(pageAdapter);

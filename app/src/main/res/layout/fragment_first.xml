@@ -1,16 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".FirstFragment">
 
     <!-- TODO: Update blank fragment layout -->
+
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="224dp"
+        android:layout_height="224dp"
+        android:layout_gravity="center_horizontal"
+        android:paddingTop="40dp"
+        android:src="@drawable/xinbosika"
+        android:contentDescription="@string/todo" />
+
     <TextView
+        android:id="@+id/name1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:text="@string/label_first" />
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="246dp"
+        android:text="@string/poet1"
+        android:textColor="@android:color/background_dark"
+        android:textIsSelectable="false"
+        android:textSize="16sp"
+        android:textStyle="normal"
+        android:typeface="normal" />
 
+    <TextView
+        android:id="@+id/name1_e"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="266dp"
+        android:text="@string/poet1_e"
+        android:textColor="@android:color/background_dark"
+        android:textSize="16sp"
+        android:typeface="normal" />
+
+    <TextView
+        android:id="@+id/intro1_1"
+        android:layout_width="347dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="310dp"
+        android:lineSpacingExtra="1.8dp"
+        android:text="@string/poet1_intro"
+        android:textSize="16sp"
+        android:typeface="normal" />
+
+    <TextView
+        android:id="@+id/intro1_2"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="400dp"
+        android:lineSpacingExtra="1.8dp"
+        android:text="@string/poet1_intro2"
+        android:textSize="16sp"
+        android:typeface="normal" />
 
 </FrameLayout>

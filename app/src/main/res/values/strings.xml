@@ -6,4 +6,17 @@
     <string name="label_first">First Page</string>
     <string name="label_second">Second Page</string>
     <string name="label_third">Third Page</string>
+    <string name="poet1">维斯瓦娃·辛波丝卡</string>
+    <string name="poet1_e">Wislawa·Szymborska</string>
+    <string name="poet1_intro">波兰著名女作家、翻译家。擅长以幽默、诗意的口吻描述严肃主题和日常事物，以诗歌回答生活，被誉为当代最为迷人的诗人之一。其诗作被称为具有不同寻常和坚韧不拔的纯洁性和力量。</string>
+    <string name="poet1_intro2">1996年，辛波丝卡荣获诺贝尔文学奖。辛波丝卡通过精确地嘲讽将生物法则和历史活动展示在人类现实的片段中，具有反讽的精确性和原生力量，被誉为诗坛莫扎特。她的诗意往往展现出一种特色——形式上力求琢磨挑剔，视野上却又变化多端，开阔无垠。</string>
+    <string name="todo">TODO</string>
+    <string name="poet2">泰戈尔</string>
+    <string name="poet2_e">Tagore</string>
+    <string name="intro2_1">印度著名诗人、作家。1913年，泰戈尔获得诺贝尔文学奖，成为第一位获得诺贝尔文学奖的亚洲人。泰戈尔的诗彰显鲜明的爱国主义和民主主义精神，又极具民族风格和深刻的哲学见解。</string>
+    <string name="intro2_2">对泰戈尔而言，诗是他奉献给神的礼物，而他本人则是神的求婚者。泰戈尔认为“神”无处不在，存在于一切自然中。受泛爱观的影响，泰戈尔将牧歌式的迷梦色彩赋予一切他所描述的生活，即便是最普通最平凡的生活。</string>
+    <string name="poet3">奥德修斯·埃里蒂斯</string>
+    <string name="poet3_e">Odysseas·Elytis</string>
+    <string name="intro3_1">出生于克里特岛，希腊最杰出的现代诗人之一。奥德修斯·埃里蒂斯的一生与两种成分紧密联系，即超现实主义和神话，并为二者创造了完美的融合，开启了希腊文学一个新的历史阶段。</string>
+    <string name="intro3_2">1979年，因诗以希腊为背景，用感觉的力量和理智的敏锐描写现代人为自由和创新而奋斗，奥德修斯·埃里蒂斯获得诺贝尔文学奖。埃里蒂斯的诗歌意境清新，语言纯洁，将矗立在蔚蓝色海面上的礁岩风物人格化，以歌颂创造，赞美生命。</string>
 </resources>
